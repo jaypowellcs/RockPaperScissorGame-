@@ -1,0 +1,14 @@
+body {
+    display:flex; 
+    flex-direction: column;
+    background-color: aqua;
+}
+h1 h2 {
+    display: flex;
+    flex-direction: column;
+    align-self: center;
+}
+button {
+    border: 230px;
+    padding: 20px; 
+}
